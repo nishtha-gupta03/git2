@@ -2,6 +2,7 @@
 
     Sub Main()
         Console.WriteLine("Hello")
+                Console.WriteLine("@@@@@")
 
     End Sub
 
